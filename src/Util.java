@@ -8,6 +8,8 @@ public class Util {
 
     public static void main(String[] args) {
         System.out.println(getDistance (3,4,5,6));
+        System.out.println("git1");
+        System.out.print("git jfhurhr urhturhurhurg rturtirti");
 
     }
 }
