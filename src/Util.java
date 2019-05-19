@@ -12,6 +12,7 @@ public class Util {
         System.out.print("git jfhurhr urhturhurhurg rturtirti");
         System.out.println("git последний");
         System.out.println("git последний2");
+        System.out.println("git последний3");
 
     }
 }
