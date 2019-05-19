@@ -7,6 +7,7 @@ public class Output {
         System.out.println("git");
         System.out.println("git1");
         System.out.print("git jfhurhr urhturhurhurg rturtirti");
+        System.out.print("git jfhurhr urhturhurhurg rturtirti");System.out.print("git jfhurhr urhturhurhurg rturtirti");
     }
 
 }
